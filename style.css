@@ -1,0 +1,35 @@
+html {
+	background-image: url("images/background-image1.jpg");
+	font-family: Arial;
+}
+h1, h2, h3 {
+	font-family: Helvetica;
+}
+h1 {
+	color: black;
+	font-weight: 800;
+	font-size: 32px;
+	text-transform: uppercase;
+}
+h3	{
+	font-size: 12px;
+	text-align: right;
+	color: white
+}
+a {
+  color: blue;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+.container {
+	background: white;
+	padding: 40px;
+	margin: 100px;
+	box-shadow: 0px 10px 10px rgba(0, 0, 0.1);
+	border-radius: 10px;
+	font-size: 18px;
+	text-align: justify;
+	line-height: 28px;
+}
